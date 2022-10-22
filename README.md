@@ -1,1 +1,1 @@
-# HtmlHomework2
+# Patika Dev Eğitimleri Html Süreçlerini Genelini Kapsayan Repo
